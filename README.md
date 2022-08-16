@@ -1,3 +1,22 @@
+Some Screenshot of my development for reference: 
+
+Desktop View:
+
+
+<img width="1424" alt="Screenshot 2022-08-17 at 2 54 05 AM" src="https://user-images.githubusercontent.com/9687524/184988344-90664f32-8c86-4ed1-87b9-b57272d8f894.png">
+
+
+Ipad check: 
+
+<img width="531" alt="Screenshot 2022-08-17 at 3 00 08 AM" src="https://user-images.githubusercontent.com/9687524/184988714-fa511166-332a-484e-863b-52716757704b.png">
+
+
+Smartphone check: 
+
+<img width="626" alt="Screenshot 2022-08-17 at 2 59 48 AM" src="https://user-images.githubusercontent.com/9687524/184988727-b6764bee-25e3-41fe-b45d-7ea9d41f047e.png">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
